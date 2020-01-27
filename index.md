@@ -1,91 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Asier Arizkuren's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Asier Arizkuren Medina
+Pamplona-Iruñea, 1985
+Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="asier@arizkuren.net">asier@arizkuren.net</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I'm working as a developer for [Blackbinder](https://blackbinder.net) since December 2014.
+I am a frontend and backend developer. I use languages like: PHP (+Symfony), javascript, Swift or Objective C, C++...
 
-### Specialized in
+## Work experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`December 2014 - Current`
+__Software developer for [Blackbinder](https://blackbinder.net)__, Pamplona-Iruñea
 
+- Backend and frontend.
+- iOS developer - Objective C & Swift
+- C++
+- PHP, Symfony
+- Javascript, VueJs
+- Mysql
 
-### Research interests
+`June 2013 - March 2014`
+__Full stack developer for Tomsaver__, Pamplona-Iruñea
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- PHP, Symfony
+- Javascript
 
+`February 2012 - February 2013`
+__Web developer for [Veiss](https://veiss.com)__, Vitoria-Gasteiz
+
+- PHP, Symfony, Magento
+- Javascript
+
+`January 2011 - November 2011`
+__Web developer and system administrator for Yes Intuitive Brain__, Pamplona-Iruñea
+
+- PHP
+- Javascript
+- Ubuntu 
+- MySQL Server
+- Apache Server
+
+`December 2006 - March 2010`
+__Web developer for Jose Antonio Cruz__, Pamplona-Iruñea
+
+- PHP, Symfony
+- MySQL
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2004-2006`
+__Higher Technician in Development of Applications__, Mariana Sanz.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 
