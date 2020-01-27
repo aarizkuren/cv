@@ -60,9 +60,11 @@ __Web developer for Jose Antonio Cruz__, Pamplona-Iruñea
 `2004-2006`
 __Higher Technician in Development of Applications__, Mariana Sanz.
 
+## Languages
+__Spanish__, mothertongue
+__Basque__, mothertongue
+__English__, Basic Knowledge
 
 <!-- ### Footer
 
 Last updated: Jan 2020 -->
-
-
